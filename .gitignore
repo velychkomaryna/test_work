@@ -1,0 +1,9 @@
+tests/__pycache__
+framework/__pycache__
+tests/login/__pycache__
+utils/__pycache__
+.vscode
+.pytest_cache
+.DS_Store
+venv/
+file.log
